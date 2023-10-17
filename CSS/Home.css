@@ -1,0 +1,14 @@
+.imagem{
+    display: flex;
+    text-align: center;
+}
+
+
+.box1main{
+    background-color: #f5f3eb;
+    color: #050505;
+}
+.containermain{
+    background-color: #f5f3eb;
+    color: #050505;
+}

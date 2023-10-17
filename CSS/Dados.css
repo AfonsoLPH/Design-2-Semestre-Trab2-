@@ -1,0 +1,27 @@
+.boxmain{
+   display: flex;
+    background-color:#f5f3eb;
+    color: black;
+    justify-content: space-between;
+} 
+.containermain{
+    background-color:#f5f3eb;
+
+}
+table{
+    background: rgb(237, 172, 44); 
+    border-color: rgb(237, 172, 44); 
+    border-style: solid; 
+    
+ }
+ tr{
+    text-align: left;
+ }
+ th{
+    background: rgb(237, 172, 44); 
+    color: white;
+ }
+ .containermain{
+    background-color:#f5f3eb;
+   
+ }

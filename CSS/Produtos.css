@@ -1,0 +1,13 @@
+.imagem{
+    margin: 100;
+    margin-top: 50;
+    margin-bottom: 100;
+    display: inline-block;
+}
+.boxmain{
+    background-color:#f5f3eb;
+    color: black;
+} 
+.containermain{
+    background-color:#f5f3eb;
+}
